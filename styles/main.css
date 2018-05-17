@@ -1349,7 +1349,7 @@ img {
     transition: all .2s ease-in-out;
     display: inline-block;
     max-width: 100%;
-    height: auto
+    height: auto;
 }
 
 .img-circle {
@@ -7041,7 +7041,7 @@ h1, h2, h3 {
 }
 
 .content-apps .app-info {
-    margin-top: 100px
+    margin-top: 70px
 }
 
 .content-apps .app-info .goals {
